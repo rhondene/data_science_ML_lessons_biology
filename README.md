@@ -1,0 +1,2 @@
+# data_science_ML_lessons_biology
+Archives jupyter notebooks with tutorial lessons on data science/machine learning using Python with a life-science perspective. When I started learning programming and machine learning, most of the examples were from other fields like IT or business, so sometimes  I found it difficult to apply those skills to biological problems. I help make data science and machine learning more relatable and practical to beginners, especially in my major biology by sharing the skills and knowledge I have acquired in data science and computation.
